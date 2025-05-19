@@ -1,3 +1,4 @@
+I USE DIFFERENT TOOLS SUCH AS POWER BI TO MAKE A GOOD DASHBOARD AND VISUALIZATIONS AND ALSO I USE JUPITER NOTEBOOK FOR SOME VISUALIZATIONS AND I USE PYTHON
 The dashboard analyzes public sentiment on transportation services in Rwanda.
 
 It helps stakeholders understand concerns through feedback from various platforms.
